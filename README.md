@@ -16,3 +16,4 @@ This project is related to Churn Analysis in Teleocm Industry for Data Driven Ma
 
 ## Preview
 [DashBoard Screenshot](https://github.com/aasiaparveen-auceg/Telecom-Customer-Churn-Analysis/commit/bc581a7b52178e9ad9504655670ec839c331b10e)
+> Click the above image to see the summary of the Dashboard
